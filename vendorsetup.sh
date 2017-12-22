@@ -1,0 +1,2 @@
+add_lunch_combo omni_dumpling-eng
+add_lunch_combo omni_cheeseburger-userdebug
