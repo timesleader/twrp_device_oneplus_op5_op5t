@@ -26,7 +26,11 @@ $(call inherit-product, vendor/omni/config/common.mk)
 PRODUCT_COPY_FILES += \
     bionic/libc/zoneinfo/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 
+# Set by init module based on ro.boot.rf_version argument from bootloader
+PRODUCT_SYSTEM_PROPERTY_BLACKLIST += ro.product.device ro.product.model
+
 ## Device identifier. This must come after all inclusions
+
 PRODUCT_DEVICE := dumpling
 PRODUCT_NAME := omni_dumpling
 PRODUCT_BRAND := OnePlus
