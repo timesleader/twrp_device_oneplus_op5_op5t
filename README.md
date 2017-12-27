@@ -32,4 +32,4 @@ OnePlus 5T was announced and released in November 2017.
 
 ## Device picture
 
-![OnePlus 5T](https://image01.oneplus.net/shop/201711/16/1850/c2baf281695709898707dd551a05274c_260_0.png "OnePlus 5T in black")
+![OnePlus 5T](http://image01.oneplus.cn/ebp/201712/14/1060/61e4ece6806971b64e33bccaf6ac2ef1.png "OnePlus 5T in red")
